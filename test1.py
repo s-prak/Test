@@ -1,6 +1,6 @@
 // Original code
-function sum(a, b) {
-  return a + b;
+function mul(a, b) {
+  return a * b;
 }
 
 // Later version with a change
